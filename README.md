@@ -2,6 +2,8 @@
 
 **Question:** In UK council by-elections, how often is Restore Britain's vote bigger than Reform UK's losing margin, so that Restore's presence could plausibly have changed the result?
 
+**Try it yourself:** an [interactive version](https://huggingface.co/spaces/kirstywalmsley/byelection-vote-split) on Hugging Face lets you change the share of Restore voters assumed to switch. The data is published as a [dataset](https://huggingface.co/datasets/kirstywalmsley/council-byelection-vote-split) under CC BY 4.0.
+
 ## Result (October 2026)
 
 Restore stood in 10 first-past-the-post council by-elections. Reform lost 8 of them.
